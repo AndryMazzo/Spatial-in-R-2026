@@ -30,3 +30,8 @@ plot(matteo, elisa)
 
 # changing the point character
 plot(matteo, elisa, pch=19)
+
+plot(matteo, elisa, pch=19, cex=2)
+plot(matteo, elisa, pch=19, cex=4)
+plot(matteo, elisa, pch=19, cex=0.5)
+plot(matteo, elisa, pch=19, cex=.5)
